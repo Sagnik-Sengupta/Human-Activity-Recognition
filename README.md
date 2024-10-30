@@ -14,7 +14,7 @@ The dataset comprises **25 indoor classes**, organized as follows:
 | Dancing              | Drinking             | Eating                | Fighting             | Hugging              |
 | Laughing             | Phoning              | Pouring a Liquid      | Reading              | Sitting              |
 | Sleeping             | Smoking              | Taking Photos         | Texting              | Using a Computer     |
-| Watching TV          | Waving Hands         | Writing on a Board    | Writing on a Book    |                      |
+| Watching TV          | Waving Hands         | Writing on a Board    | Writing on a Book    | Applauding           |
 
 You can access the dataset [here](https://www.kaggle.com/datasets/shreyaakuu/har25indoor).
 
